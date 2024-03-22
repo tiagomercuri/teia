@@ -1,8 +1,8 @@
-# React + Vite
+# TEIA - Tiago Mercuri
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse projeto é uma apresentação do projeto TEIA, com consumo de API. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para rodar o projeto:
+Comandos:
+npm install
+npm run dev
