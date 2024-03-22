@@ -1,0 +1,15 @@
+.list-box{
+  display:flex;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-around;
+}
+.app-box{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
